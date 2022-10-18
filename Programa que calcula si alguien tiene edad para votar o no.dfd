@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+edad
+1
+0
+7
+mayoria
+2
+18
+4
+1
+60
+'Programa que calcula si alguien tiene edad para votar o no'
+4
+1
+24
+'Proporcioname tu edad '
+5
+1
+4
+edad
+7
+0
+1
+15
+edad >= mayoria
+4
+1
+80
+'Aun no puedes votar, te faltan ' ,  mayoria - edad , ' años para poder hacerlo'
+13
+4
+1
+29
+'Felicidades ya puedes votar'
+13
+1
